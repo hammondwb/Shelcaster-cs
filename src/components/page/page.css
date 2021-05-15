@@ -1,0 +1,69 @@
+body {
+    background-color: #000;
+}
+
+.tileImg {
+    max-width: 240px;
+}
+
+.trackInfo {
+    background-color: #444;
+    color: #fff;
+    padding: 12px;
+}
+
+.MuiGrid-item.splideGrid {
+    margin: 12px 0;
+}
+
+.MuiListItemIcon-root {
+    color: rgb(219, 183, 115) !important;
+}
+
+.sidePanel {
+    color: rgb(219, 183, 115);
+    background-color: #000;
+}
+
+.sidepanel svg {
+    color: #fff;
+}
+
+.header {
+    padding: 12px;
+    background-color: #444;
+    color: #fff;
+}
+
+.playerContainer {
+    background-color: #000;
+    padding: 0 12px;
+}
+
+.playListContainer {
+    background-color: rgb(46, 46, 46);
+    color: #fff;
+}
+
+.MuiDivider-root {
+    background-color: rgba(255,255,255,.2) !important;
+}
+
+.MuiTypography-colorTextSecondary {
+    color: #fff !important;
+}
+
+.MuiTypography-colorTextPrimary {
+    color: #fff !important;
+}
+
+.spliderGridContainer {
+    max-height: 600px;
+    overflow-y: auto;
+}
+
+.splideGrid h3 {
+    color: #fff;
+    font-weight: normal;
+    margin-bottom: 4px;
+}
