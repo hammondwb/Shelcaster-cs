@@ -6,11 +6,10 @@ phases:
       java: corretto11
   pre_build:
     commands:
-      - npm install
+      - echo Nothing to do in the pre_build phase...
   build:
     commands:
       - echo Build started on `date`
-      - mvn install
   post_build:
     commands:
       - echo Build completed on `date`
